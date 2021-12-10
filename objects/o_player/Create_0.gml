@@ -12,3 +12,4 @@ level = 1;
 levelOneChangeAvailable = 15;
 levelTwoChangeAvailable = 15;
 levelThreeChangeAvailable = 15;
+randomize();
