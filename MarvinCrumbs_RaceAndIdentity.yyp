@@ -12,6 +12,7 @@
     {"id":{"name":"o_coin","path":"objects/o_coin/o_coin.yy",},"order":4,},
     {"id":{"name":"f_arcade","path":"fonts/f_arcade/f_arcade.yy",},"order":0,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":3,},
+    {"id":{"name":"o_transition3","path":"objects/o_transition3/o_transition3.yy",},"order":12,},
     {"id":{"name":"s_white","path":"sprites/s_white/s_white.yy",},"order":4,},
     {"id":{"name":"o_lose","path":"objects/o_lose/o_lose.yy",},"order":10,},
     {"id":{"name":"s_switch","path":"sounds/s_switch/s_switch.yy",},"order":1,},
