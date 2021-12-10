@@ -10,6 +10,7 @@
     {"id":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},"order":3,},
     {"id":{"name":"r_level3","path":"rooms/r_level3/r_level3.yy",},"order":4,},
     {"id":{"name":"o_coin","path":"objects/o_coin/o_coin.yy",},"order":4,},
+    {"id":{"name":"f_arcade","path":"fonts/f_arcade/f_arcade.yy",},"order":0,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":3,},
     {"id":{"name":"s_white","path":"sprites/s_white/s_white.yy",},"order":4,},
     {"id":{"name":"o_lose","path":"objects/o_lose/o_lose.yy",},"order":10,},
