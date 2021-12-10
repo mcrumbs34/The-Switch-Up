@@ -17,3 +17,5 @@ switch (level) {
 	levelThreeChangeAvailable--;
 	break;
 }
+
+audio_play_sound(s_switch, 1050, false);

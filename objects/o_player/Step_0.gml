@@ -87,17 +87,17 @@ if (state == "casual") {
 switch (level) {
 	case 1:	
 	if(levelOneChangeAvailable <= 0) {
-		room_goto(r_win);	
+		room_goto(r_lose);	
 	}
 	break;
 	case 2:
 	if(levelTwoChangeAvailable <= 0) {
-		room_goto(r_win);	
+		room_goto(r_lose);	
 	}
 	break;
 	case 3:
 	if(levelThreeChangeAvailable <= 0) {
-		room_goto(r_win);	
+		room_goto(r_lose);	
 	}
 	break;
 }
